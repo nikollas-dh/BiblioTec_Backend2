@@ -9,5 +9,7 @@ namespace BiblioTecApi.Data
         public AppDbContext(DbContextOptions<AppDbContext> options)
             :base(options) { }
         public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Livro> Livros{ get; set; }
+        public DbSet<Curso> Cursos{ get; set; }
     }
 }

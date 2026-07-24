@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\dtos\\usuariocadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\dtos\\usuariocadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\bibliotecapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\bibliotecapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\dtos\\livrocadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\dtos\\livrocadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\enums\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\enums\\idioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\bibliotecapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\bibliotecapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\enums\\formato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\enums\\formato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\enums\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\enums\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "BiblioTecApi\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T18:27:56.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioCadastroDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\DTOs\\UsuarioCadastroDto.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\DTOs\\UsuarioCadastroDto.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\DTOs\\UsuarioCadastroDto.cs",
+              "RelativeToolTip": "BiblioTecApi\\DTOs\\UsuarioCadastroDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T16:11:53.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Models\\Usuario.cs",
+              "RelativeToolTip": "BiblioTecApi\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T16:00:49.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Models\\Livro.cs",
+              "RelativeToolTip": "BiblioTecApi\\Models\\Livro.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T16:07:12.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Models\\Curso.cs",
+              "RelativeToolTip": "BiblioTecApi\\Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T16:39:03.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BiblioTecApi.http",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\BiblioTecApi.http",
+              "RelativeDocumentMoniker": "BiblioTecApi\\BiblioTecApi.http",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\BiblioTecApi.http",
+              "RelativeToolTip": "BiblioTecApi\\BiblioTecApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-24T16:25:00.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LivroCadastroDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\DTOs\\LivroCadastroDto.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\DTOs\\LivroCadastroDto.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\DTOs\\LivroCadastroDto.cs",
+              "RelativeToolTip": "BiblioTecApi\\DTOs\\LivroCadastroDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T16:26:51.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Program.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Program.cs",
+              "RelativeToolTip": "BiblioTecApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T16:24:58.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Perfil.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Enums\\Perfil.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\Enums\\Perfil.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Enums\\Perfil.cs",
+              "RelativeToolTip": "BiblioTecApi\\Enums\\Perfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T16:17:34.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\DTOs\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\DTOs\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\DTOs\\RegisterRequestDto.cs",
+              "RelativeToolTip": "BiblioTecApi\\DTOs\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T16:11:56.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BiblioTecApi",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\BiblioTecApi.csproj",
+              "RelativeDocumentMoniker": "BiblioTecApi\\BiblioTecApi.csproj",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\BiblioTecApi.csproj",
+              "RelativeToolTip": "BiblioTecApi\\BiblioTecApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-24T16:16:42.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Idioma.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Enums\\Idioma.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\Enums\\Idioma.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Enums\\Idioma.cs",
+              "RelativeToolTip": "BiblioTecApi\\Enums\\Idioma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T18:12:16.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "BiblioTecApi\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T16:22:33.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Formato.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Enums\\Formato.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\Enums\\Formato.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Enums\\Formato.cs",
+              "RelativeToolTip": "BiblioTecApi\\Enums\\Formato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T16:44:14.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "BiblioTecApi\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T16:12:53.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
