@@ -2,7 +2,7 @@
 {
     public class LoginResponseDto
     {
-        public string Token { get; set; }
-        public DateTime expiracao { get; set; }
+        public string Token { get; set; } = string.Empty;
+        public DateTime Expiracao { get; set; }
     }
 }

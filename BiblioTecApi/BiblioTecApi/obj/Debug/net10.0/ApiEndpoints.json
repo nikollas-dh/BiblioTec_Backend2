@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "BiblioTecApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BiblioTecApi.DTOs.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BiblioTecApi.Controllers.UsuarioController",
     "Method": "CadastroUsuario",
     "RelativePath": "api/Usuario",

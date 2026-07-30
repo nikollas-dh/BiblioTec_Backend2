@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\dtos\\usuariocadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\dtos\\usuariocadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +23,16 @@
       "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\dtos\\usuariocadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|solutionrelative:bibliotecapi\\dtos\\usuariocadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEDC087A-61C6-ED3E-92DB-06F4323196CC}|BiblioTecApi\\BiblioTecApi.csproj|c:\\users\\nikollas\\desktop\\bibliotec\\bibliotec_backend\\bibliotecapi\\bibliotecapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,59 +58,124 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "BiblioTecApi\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:56:46.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "BiblioTecApi\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Services\\AuthService.cs",
               "RelativeToolTip": "BiblioTecApi\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvyMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-24T19:43:51.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "BiblioTecApi\\Services\\TokenService.cs",
               "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Services\\TokenService.cs",
               "RelativeToolTip": "BiblioTecApi\\Services\\TokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-24T19:43:50.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "Perfil.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Enums\\Perfil.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\Enums\\Perfil.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Enums\\Perfil.cs",
+              "RelativeToolTip": "BiblioTecApi\\Enums\\Perfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T19:02:40.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BiblioTecApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BiblioTecApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-24T18:56:18.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Program.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Program.cs*",
+              "RelativeToolTip": "BiblioTecApi\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T18:53:31.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "BiblioTecApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACMAAACg4xQdyX0qwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T18:46:26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "BiblioTecApi\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Controllers\\AuthController.cs",
               "RelativeToolTip": "BiblioTecApi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-24T19:31:49.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "BiblioTecApi\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Models\\Usuario.cs",
-              "RelativeToolTip": "BiblioTecApi\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T19:03:12.708Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BiblioTecApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\appsettings.json*",
+              "RelativeToolTip": "BiblioTecApi\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-24T19:14:50.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "UsuarioCadastroDto.cs",
               "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\DTOs\\UsuarioCadastroDto.cs",
               "RelativeDocumentMoniker": "BiblioTecApi\\DTOs\\UsuarioCadastroDto.cs",
@@ -120,66 +189,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Perfil.cs",
-              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Enums\\Perfil.cs",
-              "RelativeDocumentMoniker": "BiblioTecApi\\Enums\\Perfil.cs",
-              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Enums\\Perfil.cs",
-              "RelativeToolTip": "BiblioTecApi\\Enums\\Perfil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "BiblioTecApi\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Models\\Usuario.cs",
+              "RelativeToolTip": "BiblioTecApi\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T19:02:40.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BiblioTecApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BiblioTecApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-24T18:56:18.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Program.cs",
-              "RelativeDocumentMoniker": "BiblioTecApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Program.cs",
-              "RelativeToolTip": "BiblioTecApi\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T18:53:31.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "BiblioTecApi\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "BiblioTecApi\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABsAAAAAoiQk0pYPwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T18:46:26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\appsettings.json",
-              "RelativeDocumentMoniker": "BiblioTecApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Nikollas\\Desktop\\BIBLIOTEC\\BiblioTec_Backend\\BiblioTecApi\\BiblioTecApi\\appsettings.json",
-              "RelativeToolTip": "BiblioTecApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-24T19:14:50.435Z",
+              "WhenOpened": "2026-07-24T19:03:12.708Z",
               "EditorCaption": ""
             }
           ]
