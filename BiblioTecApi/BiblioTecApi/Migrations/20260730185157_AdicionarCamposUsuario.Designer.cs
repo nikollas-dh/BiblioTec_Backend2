@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BiblioTecApi.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260724183642_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20260730185157_AdicionarCamposUsuario")]
+    partial class AdicionarCamposUsuario
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

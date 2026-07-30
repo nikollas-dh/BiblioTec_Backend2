@@ -153,10 +153,11 @@ C:\Users\Nikollas\Desktop\BIBLIOTEC\BiblioTec_Backend\BiblioTecApi\BiblioTecApi\
 C:\Users\Nikollas\Desktop\BIBLIOTEC\BiblioTec_Backend\BiblioTecApi\BiblioTecApi\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\Nikollas\Desktop\BIBLIOTEC\BiblioTec_Backend\BiblioTecApi\BiblioTecApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\Nikollas\Desktop\BIBLIOTEC\BiblioTec_Backend\BiblioTecApi\BiblioTecApi\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\Nikollas\Desktop\BIBLIOTEC\BiblioTec_Backend\BiblioTecApi\BiblioTecApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\Nikollas\Desktop\BIBLIOTEC\BiblioTec_Backend\BiblioTecApi\BiblioTecApi\obj\Debug\net10.0\BiblioTe.457EC202.Up2Date
 C:\Users\Nikollas\Desktop\BIBLIOTEC\BiblioTec_Backend\BiblioTecApi\BiblioTecApi\obj\Debug\net10.0\BiblioTecApi.dll
 C:\Users\Nikollas\Desktop\BIBLIOTEC\BiblioTec_Backend\BiblioTecApi\BiblioTecApi\obj\Debug\net10.0\refint\BiblioTecApi.dll
 C:\Users\Nikollas\Desktop\BIBLIOTEC\BiblioTec_Backend\BiblioTecApi\BiblioTecApi\obj\Debug\net10.0\BiblioTecApi.pdb
 C:\Users\Nikollas\Desktop\BIBLIOTEC\BiblioTec_Backend\BiblioTecApi\BiblioTecApi\obj\Debug\net10.0\BiblioTecApi.genruntimeconfig.cache
 C:\Users\Nikollas\Desktop\BIBLIOTEC\BiblioTec_Backend\BiblioTecApi\BiblioTecApi\obj\Debug\net10.0\ref\BiblioTecApi.dll
+C:\Users\Nikollas\Desktop\BIBLIOTEC\BiblioTec_Backend\BiblioTecApi\BiblioTecApi\bin\Debug\net10.0\BCrypt-Net-Next.dll
+C:\Users\Nikollas\Desktop\BIBLIOTEC\BiblioTec_Backend\BiblioTecApi\BiblioTecApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

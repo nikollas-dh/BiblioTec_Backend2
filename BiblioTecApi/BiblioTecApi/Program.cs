@@ -16,7 +16,7 @@ options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")
     ));
 
-builder.Environment
+//builder.Environment
 
 var app = builder.Build();
 

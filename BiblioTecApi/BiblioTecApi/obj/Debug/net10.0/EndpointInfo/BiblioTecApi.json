@@ -22,17 +22,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Usuario"
+                "$ref": "#/components/schemas/UsuarioCadastroDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Usuario"
+                "$ref": "#/components/schemas/UsuarioCadastroDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Usuario"
+                "$ref": "#/components/schemas/UsuarioCadastroDto"
               }
             }
           },
@@ -51,31 +51,37 @@
       "Perfil": {
         "type": "integer"
       },
-      "Usuario": {
+      "UsuarioCadastroDto": {
+        "required": [
+          "nome",
+          "email",
+          "senha",
+          "data_nascimento",
+          "celular",
+          "cursoId",
+          "perfil"
+        ],
         "type": "object",
         "properties": {
-          "id": {
-            "pattern": "^-?(?:0|[1-9]\\d*)$",
-            "type": [
-              "integer",
-              "string"
-            ],
-            "format": "int32"
-          },
           "nome": {
+            "maxLength": 100,
+            "minLength": 3,
             "type": "string"
           },
           "email": {
+            "maxLength": 100,
+            "minLength": 3,
             "type": "string"
           },
           "senha": {
             "type": "string"
           },
-          "dataNascimento": {
+          "data_nascimento": {
             "type": "string",
             "format": "date-time"
           },
           "celular": {
+            "pattern": "^\\d{11}",
             "type": "string"
           },
           "cursoId": {

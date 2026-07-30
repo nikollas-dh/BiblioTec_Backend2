@@ -8,8 +8,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "usuario",
-        "Type": "BiblioTecApi.Models.Usuario",
+        "Name": "dto",
+        "Type": "BiblioTecApi.DTOs.UsuarioCadastroDto",
         "IsRequired": true
       }
     ],
