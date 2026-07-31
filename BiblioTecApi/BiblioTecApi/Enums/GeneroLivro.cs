@@ -1,6 +1,6 @@
 ﻿namespace BiblioTecApi.Enums
 {
-    public enum Genero
+    public enum GeneroLivro
     {
         Romance,
         Ficcao,

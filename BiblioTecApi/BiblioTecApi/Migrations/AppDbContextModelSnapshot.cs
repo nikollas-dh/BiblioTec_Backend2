@@ -71,11 +71,15 @@ namespace BiblioTecApi.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Formato")
-                        .HasColumnType("int");
+                    b.Property<string>("FormatoLivro")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
 
-                    b.Property<int>("Genero")
-                        .HasColumnType("int");
+                    b.Property<string>("GeneroLivro")
+                        .IsRequired()
+                        .HasMaxLength(30)
+                        .HasColumnType("nvarchar(30)");
 
                     b.Property<string>("Idioma")
                         .IsRequired()
@@ -124,8 +128,10 @@ namespace BiblioTecApi.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Perfil")
-                        .HasColumnType("int");
+                    b.Property<string>("Perfil")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
 
                     b.Property<string>("Senha")
                         .IsRequired()

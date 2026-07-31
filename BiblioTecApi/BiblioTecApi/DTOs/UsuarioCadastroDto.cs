@@ -27,9 +27,9 @@ namespace BiblioTecApi.DTOs
         
         [Required]
         public int CursoId { get; set; }
-        
+
         [Required]
-        public Perfil Perfil { get; set; }
+        public Perfil Perfil { get; set; } = Perfil.Aluno;
     }
 }
 

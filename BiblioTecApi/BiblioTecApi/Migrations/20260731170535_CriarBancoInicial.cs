@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace BiblioTecApi.Migrations
 {
     /// <inheritdoc />
-    public partial class AdicionarCamposUsuario : Migration
+    public partial class CriarBancoInicial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -32,12 +32,12 @@ namespace BiblioTecApi.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Titulo = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Autor = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Genero = table.Column<int>(type: "int", nullable: false),
+                    GeneroLivro = table.Column<string>(type: "nvarchar(30)", maxLength: 30, nullable: false),
                     Editora = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     AnoPublicacao = table.Column<int>(type: "int", nullable: false),
                     Isbn = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Idioma = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Formato = table.Column<int>(type: "int", nullable: false),
+                    FormatoLivro = table.Column<string>(type: "nvarchar(20)", maxLength: 20, nullable: false),
                     Caminho_capa = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Sinopse = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Ativo = table.Column<bool>(type: "bit", nullable: false),
@@ -61,7 +61,7 @@ namespace BiblioTecApi.Migrations
                     DataNascimento = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Celular = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     CursoId = table.Column<int>(type: "int", nullable: false),
-                    Perfil = table.Column<int>(type: "int", nullable: false)
+                    Perfil = table.Column<string>(type: "nvarchar(20)", maxLength: 20, nullable: false)
                 },
                 constraints: table =>
                 {

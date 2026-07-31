@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BiblioTecApi.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260730185157_AdicionarCamposUsuario")]
-    partial class AdicionarCamposUsuario
+    [Migration("20260731170535_CriarBancoInicial")]
+    partial class CriarBancoInicial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -74,11 +74,15 @@ namespace BiblioTecApi.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Formato")
-                        .HasColumnType("int");
+                    b.Property<string>("FormatoLivro")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
 
-                    b.Property<int>("Genero")
-                        .HasColumnType("int");
+                    b.Property<string>("GeneroLivro")
+                        .IsRequired()
+                        .HasMaxLength(30)
+                        .HasColumnType("nvarchar(30)");
 
                     b.Property<string>("Idioma")
                         .IsRequired()
@@ -127,8 +131,10 @@ namespace BiblioTecApi.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Perfil")
-                        .HasColumnType("int");
+                    b.Property<string>("Perfil")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
 
                     b.Property<string>("Senha")
                         .IsRequired()

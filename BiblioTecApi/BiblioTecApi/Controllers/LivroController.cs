@@ -19,7 +19,6 @@ namespace BiblioTecApi.Controllers
         [HttpPost]
         public IActionResult CadastroLivro([FromBody] LivroCadastroDto dto)
         {
-            //if (!ModelState.IsValid) return BadRequest(ModelState);
             try
             {
                 if (!ModelState.IsValid) return BadRequest(ModelState);
@@ -28,12 +27,12 @@ namespace BiblioTecApi.Controllers
                     Titulo = dto.Titulo,
                     Autor = dto.Autor,
                     AnoPublicacao = dto.AnoPublicacao,
-                    Formato = dto.Formato,
+                    FormatoLivro = dto.FormatoLivro,
                     Editora = dto.Editora,
                     Isbn = dto.Isbn,
                     Sinopse = dto.Sinopse,
                     Idioma = dto.Idioma,
-                    Genero = dto.Genero,
+                    GeneroLivro = dto.GeneroLivro,
                     Caminho_capa = dto.CaminhoCapa,
                 };
                 ct.Livros.Add(livro);

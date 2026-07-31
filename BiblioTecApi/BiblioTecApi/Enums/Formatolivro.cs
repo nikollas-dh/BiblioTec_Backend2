@@ -1,6 +1,6 @@
 ﻿namespace BiblioTecApi.Enums
 {
-    public enum Formato
+    public enum Formatolivro
     {
         Físico,
         Ebook

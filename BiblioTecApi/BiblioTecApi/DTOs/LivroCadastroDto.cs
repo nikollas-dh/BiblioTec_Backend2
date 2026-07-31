@@ -14,7 +14,7 @@ namespace BiblioTecApi.DTOs
         public string Autor { get; set; } 
 
         [Required]
-        public Genero Genero { get; set; }
+        public GeneroLivro GeneroLivro { get; set; }
 
         [Required]
         [StringLength(100, MinimumLength = 3)]
@@ -25,11 +25,11 @@ namespace BiblioTecApi.DTOs
         [StringLength(20)]
         public string Isbn { get; set; }
 
-        [StringLength(50)]
+        [StringLength(2,MinimumLength =2)]
         public string Idioma { get; set; } 
 
         [Required]
-        public Formato Formato { get; set; }
+        public Formatolivro FormatoLivro { get; set; }
 
         [StringLength(255)]
         public string CaminhoCapa { get; set; } 

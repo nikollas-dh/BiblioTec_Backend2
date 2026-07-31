@@ -8,12 +8,12 @@ namespace BiblioTecApi.Models
         public int Id{ get; set; } 
         public string Titulo{ get; set; }
         public string Autor{ get; set; }
-        public Genero Genero { get; set; }
+        public GeneroLivro GeneroLivro { get; set; }
         public string Editora{ get; set; }
         public int AnoPublicacao{ get; set; }
         public string Isbn { get; set; }
         public string Idioma { get; set; }
-        public Formato Formato { get; set; }
+        public Formatolivro FormatoLivro { get; set; }
         public string Caminho_capa { get; set; }
         public string Sinopse { get; set; }
         public bool Ativo { get; set; }
@@ -25,12 +25,12 @@ namespace BiblioTecApi.Models
         {
             Titulo = dto.Titulo;
             Autor = dto.Autor;
-            Genero = dto.Genero;
+            GeneroLivro = dto.GeneroLivro;
             Editora = dto.Editora;
             AnoPublicacao = dto.AnoPublicacao;
             Isbn = dto.Isbn;
             Idioma = dto.Idioma;
-            Formato = dto.Formato;
+            FormatoLivro = dto.FormatoLivro;
             Caminho_capa = dto.CaminhoCapa;
             Sinopse = dto.Sinopse;
             Ativo = true;
