@@ -45,6 +45,38 @@
         }
       }
     },
+    "/api/Livro": {
+      "post": {
+        "tags": [
+          "Livro"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LivroCadastroDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LivroCadastroDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LivroCadastroDto"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Usuario": {
       "post": {
         "tags": [
@@ -80,6 +112,73 @@
   },
   "components": {
     "schemas": {
+      "Formato": {
+        "type": "integer"
+      },
+      "Genero": {
+        "type": "integer"
+      },
+      "LivroCadastroDto": {
+        "required": [
+          "titulo",
+          "autor",
+          "genero",
+          "editora",
+          "formato"
+        ],
+        "type": "object",
+        "properties": {
+          "titulo": {
+            "maxLength": 100,
+            "minLength": 3,
+            "type": "string"
+          },
+          "autor": {
+            "maxLength": 100,
+            "minLength": 3,
+            "type": "string"
+          },
+          "genero": {
+            "$ref": "#/components/schemas/Genero"
+          },
+          "editora": {
+            "maxLength": 100,
+            "minLength": 3,
+            "type": "string"
+          },
+          "anoPublicacao": {
+            "pattern": "^-?(?:0|[1-9]\\d*)$",
+            "type": [
+              "integer",
+              "string"
+            ],
+            "format": "int32"
+          },
+          "isbn": {
+            "maxLength": 20,
+            "minLength": 0,
+            "type": "string"
+          },
+          "idioma": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string"
+          },
+          "formato": {
+            "$ref": "#/components/schemas/Formato"
+          },
+          "caminhoCapa": {
+            "maxLength": 255,
+            "minLength": 0,
+            "type": "string"
+          },
+          "sinopse": {
+            "maxLength": 1000,
+            "minLength": 0,
+            "type": "string"
+          }
+        }
+      },
       "LoginRequestDto": {
         "required": [
           "email",
@@ -149,6 +248,9 @@
   "tags": [
     {
       "name": "Auth"
+    },
+    {
+      "name": "Livro"
     },
     {
       "name": "Usuario"

@@ -16,6 +16,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BiblioTecApi.Controllers.LivroController",
+    "Method": "CadastroLivro",
+    "RelativePath": "api/Livro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BiblioTecApi.DTOs.LivroCadastroDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BiblioTecApi.Controllers.UsuarioController",
     "Method": "CadastroUsuario",
     "RelativePath": "api/Usuario",
