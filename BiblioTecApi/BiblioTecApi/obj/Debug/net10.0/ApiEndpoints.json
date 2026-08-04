@@ -32,6 +32,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BiblioTecApi.Controllers.LivroController",
+    "Method": "listarLivros",
+    "RelativePath": "api/Livro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BiblioTecApi.Controllers.UsuarioController",
     "Method": "CadastroUsuario",
     "RelativePath": "api/Usuario",

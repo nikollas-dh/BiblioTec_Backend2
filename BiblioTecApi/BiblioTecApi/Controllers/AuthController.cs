@@ -22,11 +22,10 @@ namespace BiblioTecApi.Controllers
             try
             {
                 var res = auth.Login(dto);
-                return Ok();
+                return Ok(res);
             }
             catch (Exception ex)
             {
-
                 return Unauthorized(ex.Message);
             }
         }

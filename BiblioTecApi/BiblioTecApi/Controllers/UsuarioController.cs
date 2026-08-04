@@ -56,7 +56,8 @@ namespace BiblioTecApi.Controllers
                 {
                     usuario.Id,
                     usuario.Nome,
-                    usuario.Email
+                    usuario.Email,
+                    usuario.Perfil,
                 });
             }
             catch (Exception) 

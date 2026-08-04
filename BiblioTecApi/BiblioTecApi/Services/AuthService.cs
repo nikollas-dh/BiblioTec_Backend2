@@ -1,5 +1,6 @@
 ﻿using BiblioTecApi.Data;
 using BiblioTecApi.DTOs;
+using System.Xml.Linq;
 
 namespace BiblioTecApi.Services
 {
@@ -28,7 +29,8 @@ namespace BiblioTecApi.Services
             return new LoginResponseDto
             {
                 Token = tk.GerarToken(us),
-                Expiracao = DateTime.Now.AddMinutes(60)
+                Expiracao = DateTime.Now.AddMinutes(60),
+                Perfil = us.Perfil,
             };
 
         }

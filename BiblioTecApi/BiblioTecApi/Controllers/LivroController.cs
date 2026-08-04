@@ -1,6 +1,7 @@
 ﻿using BiblioTecApi.Data;
 using BiblioTecApi.DTOs;
 using BiblioTecApi.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -22,20 +23,8 @@ namespace BiblioTecApi.Controllers
             try
             {
                 if (!ModelState.IsValid) return BadRequest(ModelState);
-                var livro = new Livro
-                {
-                    Titulo = dto.Titulo,
-                    Autor = dto.Autor,
-                    AnoPublicacao = dto.AnoPublicacao,
-                    FormatoLivro = dto.FormatoLivro,
-                    Editora = dto.Editora,
-                    Isbn = dto.Isbn,
-                    Sinopse = dto.Sinopse,
-                    Idioma = dto.Idioma,
-                    GeneroLivro = dto.GeneroLivro,
-                    Caminho_capa = dto.CaminhoCapa,
-                };
-                ct.Livros.Add(livro);
+				var livro = new Livro(dto);
+				ct.Livros.Add(livro);
                 ct.SaveChanges();
                 return Ok();
             }
@@ -44,5 +33,13 @@ namespace BiblioTecApi.Controllers
                 return StatusCode(500, "Erro interno no servidor");
             }
         }
-    } 
+
+        [Authorize]
+        [HttpGet]
+        public IActionResult listarLivros() 
+        {
+            var list = ct.Livros.ToList();
+            return Ok(list);
+        }
+	}
 }

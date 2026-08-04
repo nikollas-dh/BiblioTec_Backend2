@@ -75,6 +75,16 @@
             "description": "OK"
           }
         }
+      },
+      "get": {
+        "tags": [
+          "Livro"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     },
     "/api/Usuario": {
@@ -112,19 +122,19 @@
   },
   "components": {
     "schemas": {
-      "Formato": {
+      "Formatolivro": {
         "type": "integer"
       },
-      "Genero": {
+      "GeneroLivro": {
         "type": "integer"
       },
       "LivroCadastroDto": {
         "required": [
           "titulo",
           "autor",
-          "genero",
+          "generoLivro",
           "editora",
-          "formato"
+          "formatoLivro"
         ],
         "type": "object",
         "properties": {
@@ -138,8 +148,8 @@
             "minLength": 3,
             "type": "string"
           },
-          "genero": {
-            "$ref": "#/components/schemas/Genero"
+          "generoLivro": {
+            "$ref": "#/components/schemas/GeneroLivro"
           },
           "editora": {
             "maxLength": 100,
@@ -160,12 +170,12 @@
             "type": "string"
           },
           "idioma": {
-            "maxLength": 50,
-            "minLength": 0,
+            "maxLength": 2,
+            "minLength": 2,
             "type": "string"
           },
-          "formato": {
-            "$ref": "#/components/schemas/Formato"
+          "formatoLivro": {
+            "$ref": "#/components/schemas/Formatolivro"
           },
           "caminhoCapa": {
             "maxLength": 255,
